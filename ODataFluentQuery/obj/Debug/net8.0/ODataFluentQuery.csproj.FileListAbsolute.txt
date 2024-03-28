@@ -1,0 +1,11 @@
+E:\TekSpear\Projects\ODataFluentQuery\ODataFluentQuery.Test\ODataFluentQuery\bin\Debug\net8.0\ODataFluentQuery.deps.json
+E:\TekSpear\Projects\ODataFluentQuery\ODataFluentQuery.Test\ODataFluentQuery\bin\Debug\net8.0\ODataFluentQuery.dll
+E:\TekSpear\Projects\ODataFluentQuery\ODataFluentQuery.Test\ODataFluentQuery\bin\Debug\net8.0\ODataFluentQuery.pdb
+E:\TekSpear\Projects\ODataFluentQuery\ODataFluentQuery.Test\ODataFluentQuery\obj\Debug\net8.0\ODataFluentQuery.GeneratedMSBuildEditorConfig.editorconfig
+E:\TekSpear\Projects\ODataFluentQuery\ODataFluentQuery.Test\ODataFluentQuery\obj\Debug\net8.0\ODataFluentQuery.AssemblyInfoInputs.cache
+E:\TekSpear\Projects\ODataFluentQuery\ODataFluentQuery.Test\ODataFluentQuery\obj\Debug\net8.0\ODataFluentQuery.AssemblyInfo.cs
+E:\TekSpear\Projects\ODataFluentQuery\ODataFluentQuery.Test\ODataFluentQuery\obj\Debug\net8.0\ODataFluentQuery.csproj.CoreCompileInputs.cache
+E:\TekSpear\Projects\ODataFluentQuery\ODataFluentQuery.Test\ODataFluentQuery\obj\Debug\net8.0\ODataFluentQuery.dll
+E:\TekSpear\Projects\ODataFluentQuery\ODataFluentQuery.Test\ODataFluentQuery\obj\Debug\net8.0\refint\ODataFluentQuery.dll
+E:\TekSpear\Projects\ODataFluentQuery\ODataFluentQuery.Test\ODataFluentQuery\obj\Debug\net8.0\ODataFluentQuery.pdb
+E:\TekSpear\Projects\ODataFluentQuery\ODataFluentQuery.Test\ODataFluentQuery\obj\Debug\net8.0\ref\ODataFluentQuery.dll
